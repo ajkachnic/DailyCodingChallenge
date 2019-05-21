@@ -1,4 +1,4 @@
-#Daily Coding Challenge#
+#Daily Coding Challenge
 Good morning! Here's your coding interview problem for today.
 
 This problem was recently asked by Google.
